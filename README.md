@@ -1,2 +1,1 @@
-Daniil Vansovich 519
-Oleksiy Sergiyovich Rubel
+print("Python education")
